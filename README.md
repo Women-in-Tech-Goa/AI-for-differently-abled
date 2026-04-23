@@ -13,8 +13,8 @@
 
 Pick the one you are building for and delete the other. Add 2–3 lines on the organization in your own words.
 
-- 🐕 **INDOGETHER** — Trains street dogs to become therapy, guide, and support companions for seniors and people with disabilities, giving Indie pups meaningful roles.
-- 💼 **Atypical Advantage** — India's largest livelihood platform for Persons with Disabilities (PWD), bridging supply and demand so that persons with disabilities can earn a dignified income.
+- 🐕 **INDOGETHER**: trains street dogs to become therapy, guide, and support companions for seniors and people with disabilities, giving Indie pups meaningful roles.
+- 💼 **Atypical Advantage**: India's largest livelihood platform for Persons with Disabilities (PWD), bridging supply and demand so that persons with disabilities can earn a dignified income.
 
 📄 Original brief: [`Briefs/<Your_Org>_Brief.pdf`](Briefs/)
 
@@ -22,7 +22,7 @@ Pick the one you are building for and delete the other. Add 2–3 lines on the o
 
 ## The Problem
 
-In 3–5 bullets, summarize the problem you are solving — in your own words, not copy-pasted from the brief.
+In 3-5 bullets, summarize the problem you are solving, in your own words, not copy-pasted from the brief.
 
 - Problem point 1
 - Problem point 2
@@ -36,9 +36,9 @@ One short paragraph: what you built, the core idea behind it, and who benefits.
 
 ### Key Features
 
-- **Feature 1** — one line on what it does
-- **Feature 2** — one line on what it does
-- **Feature 3** — one line on what it does
+- **Feature 1**: one line on what it does
+- **Feature 2**: one line on what it does
+- **Feature 3**: one line on what it does
 
 ### Design Principles / Constraints Honoured
 
@@ -71,9 +71,9 @@ List the non-negotiables from the brief you respected (e.g., for Atypical Advant
 
 A short explanation of the user journey or the system, step by step. 5–10 lines is plenty.
 
-1. Step one — what the user sees / does
-2. Step two — what the system does
-3. Step three — the outcome
+1. Step one: what the user sees or does
+2. Step two: what the system does
+3. Step three: the outcome
 
 ---
 
@@ -101,7 +101,7 @@ Open the Figma link above. The main flow starts at the `Home` frame. Use `→` t
 
 ### If you built a prompt pack / content system
 
-- Prompts live in [`prompts/`](prompts/) — one file per use case.
+- Prompts live in [`prompts/`](prompts/), one file per use case.
 - Paste the prompt into Claude/ChatGPT, replace the `{{variables}}` with your own inputs, and run.
 - Sample outputs are in [`outputs/`](outputs/).
 
@@ -131,7 +131,7 @@ Delete the rows that don't apply to your project.
 - 📊 **Presentation:** <link>
 - 🔗 **Any other:** <link>
 
-> Commit the final exports of anything important to this repo too — Drive links rot, git history doesn't.
+> Commit the final exports of anything important to this repo too. Drive links rot, git history doesn't.
 
 ---
 
