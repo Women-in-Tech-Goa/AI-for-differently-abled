@@ -1,13 +1,12 @@
 # Project Title
 
-> One-line description of what you built and who it's for.
+One-line description of what you built and who it's for.
 
 <!--
   Add a cover image, a key screenshot, or a short demo GIF here.
   Save the file under /assets and reference it like:  ![Cover](assets/cover.png)
 -->
 
----
 
 ## The Organization
 
@@ -18,7 +17,6 @@ Pick the one you are building for and delete the other. Add 2–3 lines on the o
 
 📄 Original brief: [`Briefs/<Your_Org>_Brief.pdf`](Briefs/)
 
----
 
 ## The Problem
 
@@ -28,7 +26,6 @@ In 3-5 bullets, summarize the problem you are solving, in your own words, not co
 - Problem point 2
 - Problem point 3
 
----
 
 ## Our Solution
 
@@ -40,14 +37,6 @@ One short paragraph: what you built, the core idea behind it, and who benefits.
 - **Feature 2**: one line on what it does
 - **Feature 3**: one line on what it does
 
-### Design Principles / Constraints Honoured
-
-List the non-negotiables from the brief you respected (e.g., for Atypical Advantage: no audio, no sign language, WCAG AA contrast, large tap targets; for INDOGETHER: easy for non-technical staff to reuse).
-
-- Principle 1
-- Principle 2
-
----
 
 ## Screenshots & Demo
 
@@ -65,9 +54,8 @@ List the non-negotiables from the brief you respected (e.g., for Atypical Advant
 - 🎨 **Figma prototype:** <link>
 - 🧪 **Live demo / deployed link:** <link, if any>
 
----
 
-## How It Works
+## How It Works / How to Use or Run
 
 A short explanation of the user journey or the system, step by step. 5–10 lines is plenty.
 
@@ -75,55 +63,20 @@ A short explanation of the user journey or the system, step by step. 5–10 line
 2. Step two: what the system does
 3. Step three: the outcome
 
----
-
-## How to Use or Run
-
-Pick whichever block(s) apply to your project and delete the rest.
 
 ### If you built an app / code
 
-```bash
-# clone
-git clone <repo-url>
-cd <repo>
-
-# install
-<install command>
-
-# run
-<run command>
+```
+add your run instructions
 ```
 
-### If you built a design / prototype
+### If you built a design / prototype / documentation
 
-Open the Figma link above. The main flow starts at the `Home` frame. Use `→` to step through.
-
-### If you built a prompt pack / content system
-
-- Prompts live in [`prompts/`](prompts/), one file per use case.
-- Paste the prompt into Claude/ChatGPT, replace the `{{variables}}` with your own inputs, and run.
-- Sample outputs are in [`outputs/`](outputs/).
-
----
-
-## What's In This Repo
-
-Delete the rows that don't apply to your project.
-
-| Folder | What's inside |
-|--------|---------------|
-| [`assets/`](assets/) | Screenshots, demo GIFs, cover image |
-| [`design/`](design/) | Wireframes, mockups, Figma exports (PNG/PDF) |
-| [`src/`](src/) | Source code |
-| [`prompts/`](prompts/) | AI prompts and workflows |
-| [`outputs/`](outputs/) | Sample outputs produced by the system |
-| [`docs/`](docs/) | Research notes, design decisions, presentation |
-| [`Briefs/`](Briefs/) | Original brief from the NGO |
-
----
+Insert clear instructions on how the end-user will be using your solution.
 
 ## Links & Resources
+
+Add all links and resources
 
 - 📁 **Google Drive (all working files):** <link>
 - 🎨 **Figma / design file:** <link>
@@ -133,7 +86,6 @@ Delete the rows that don't apply to your project.
 
 > Commit the final exports of anything important to this repo too. Drive links rot, git history doesn't.
 
----
 
 ## Team
 
@@ -143,7 +95,6 @@ Delete the rows that don't apply to your project.
 | Person 2 | Design / Dev / Research / PM | person2@example.com |
 | Person 3 | Design / Dev / Research / PM | person3@example.com |
 
----
 
 ## Acknowledgements
 
