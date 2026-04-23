@@ -12,6 +12,11 @@ Please describe in short the organization that the solution is being built for
 
 💼 Atypical Advantage - India's largest livelihood platform for Persons with Disabilities (PWD), bridging supply and demand so that persons with disabilities can earn a dignified income. 
 
+## List of Contributors
+
+* Person 1 Name [Email] - Contributions eg: Design, Development, UI/UX
+* Person 2 Name [Email] - Contributions eg: Design, Development, UI/UX
+
 ## Problems you are solving
 
 Please attach the project brief, or list in bullet points the problem your project is solving
